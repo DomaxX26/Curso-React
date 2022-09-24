@@ -1,0 +1,34 @@
+{
+	"peliculas":{
+		"305":{
+			"nombre":"La Sirenita",
+			"estreno":"05/12/1990",
+			"genero":[
+				{
+					"id": 1,
+					"nombre": "Musical"
+				},
+				{
+					"id": 2,
+					"nombre": "Infantil"
+				}
+			],
+			"duracion":83
+		}, 
+		"306":{
+			"nombre":"Capitán América. Civil War",
+			"estreno":"29/04/2016",
+			"genero":[
+				{
+					"id":3,
+					"nombre":"Acción"
+				},
+				{
+					"id":4,
+					"nombre":"Aventura"
+				}
+			],
+			"duracion":148
+		}
+	}
+}
